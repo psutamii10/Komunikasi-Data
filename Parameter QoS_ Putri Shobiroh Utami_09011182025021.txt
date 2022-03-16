@@ -1,0 +1,13 @@
+1. Throughput : Jumlah bytes / time span
+ 		= 2264385 / 15.033
+		= 150627,619 bytes/s x 8
+		= 1205 Kbits/s
+
+2. Packet loss : 0%
+
+3. Delay : - Total Delay	15,033203
+	   - Rata-rata Delay	0,006071568 s = 6,07 ms
+
+4. Jitter : - Total Jitter	15,246441
+	    - Rata-rata Jitter	0,00615769 s = 6,15 ms
+
